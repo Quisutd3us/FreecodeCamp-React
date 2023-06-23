@@ -1,5 +1,5 @@
 .container-testimony{
-  border: solid 1px blue;
+  /*border: solid 1px blue;*/
   width: 1170px;
   height: 368px;
   margin:10px 10px 50px;
@@ -15,7 +15,7 @@
 }
 
 .container-presentation{
-  border: solid 2px green;
+  /*border: solid 2px green;*/
   text-align: center;
   padding: 40px;
   font-family: Lato, sans-serif;
