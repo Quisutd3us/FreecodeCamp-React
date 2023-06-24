@@ -1,0 +1,11 @@
+.counter-container{
+  border:solid 8px whitesmoke;
+  min-width: 300px;
+  height: 300px;
+  font-size: 3rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: crimson;
+  margin:50px
+}
