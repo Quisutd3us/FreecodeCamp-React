@@ -1,9 +1,9 @@
 import React from "react";
 import '../css/counter.css'
-function Counter({numClicks}) {
+function Counter({totalClicks}) {
   return (
       <div className={'counter-container'}>
-        {numClicks}
+        {totalClicks}
       </div>
   )
 }
